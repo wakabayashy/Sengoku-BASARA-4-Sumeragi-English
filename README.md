@@ -2,13 +2,13 @@
 
 An English translation and editing project for **Sengoku BASARA 4 Sumeragi** on **PlayStation 3**.
 
-> **Current status: Translation and editing in progress.**
+> **Current status: English script translated and integrated; editing and Beta preparation ongoing.**
 
 ## About the Project
 
 This project aims to make Sengoku BASARA 4 Sumeragi accessible to English-speaking players through an English fan translation.
 
-The project is currently in the translation and editing phase. Work is ongoing, and no completion percentage or public release date is being announced at this stage.
+The English script has been translated and inserted into the game. Editing, graphical corrections and preparation for Beta testing continue; no public Beta or release date is announced.
 
 ## Current Work
 
@@ -28,17 +28,17 @@ Previously discussed work has included character and menu presentation, includin
 
 - **Platform:** PlayStation 3
 - **Language:** English
-- **Translation:** In progress
+- **English script:** Translated and integrated
 - **Text editing:** In progress
-- **Current status:** Active development
-- **Beta testing:** Not announced
+- **Current status:** Editing, presentation fixes and Beta preparation
+- **Beta testing:** Planned; no public Beta available yet
 - **Public release:** To be announced
 
-No percentage is published because the current overall completion figure has not been confirmed.
+The script being translated and inserted does not mean that all graphics, presentation and in-game testing work is complete.
 
 ## Testing and Feedback
 
-A public Beta has not been announced. When a testing phase is ready, information about access and feedback will be shared through the team Discord.
+A public Beta has not been announced. When a testing phase is ready, information about access and feedback will be shared through my Discord server.
 
 Useful reports should include:
 
@@ -58,7 +58,7 @@ No public patch download is announced in this repository at this time.
 
 ## Credits
 
-**Team / project release:** wakabayashy
+**Project / release:** wakabayashy
 
 Further contributor credits will be added as the project develops and roles are confirmed.
 
